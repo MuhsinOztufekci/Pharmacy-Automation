@@ -1,0 +1,14 @@
+C:\Users\muhsi\source\repos\Pharmacy Automation\bin\Debug\Pharmacy Automation.exe.config
+C:\Users\muhsi\source\repos\Pharmacy Automation\bin\Debug\Pharmacy Automation.exe
+C:\Users\muhsi\source\repos\Pharmacy Automation\bin\Debug\Pharmacy Automation.pdb
+C:\Users\muhsi\source\repos\Pharmacy Automation\obj\Debug\Pharmacy Automation.csproj.AssemblyReference.cache
+C:\Users\muhsi\source\repos\Pharmacy Automation\obj\Debug\Pharmacy Automation.csproj.SuggestedBindingRedirects.cache
+C:\Users\muhsi\source\repos\Pharmacy Automation\obj\Debug\Pharmacy_Automation.Properties.Resources.resources
+C:\Users\muhsi\source\repos\Pharmacy Automation\obj\Debug\Pharmacy Automation.csproj.GenerateResource.cache
+C:\Users\muhsi\source\repos\Pharmacy Automation\obj\Debug\Pharmacy Automation.csproj.CoreCompileInputs.cache
+C:\Users\muhsi\source\repos\Pharmacy Automation\obj\Debug\Pharmacy Automation.exe
+C:\Users\muhsi\source\repos\Pharmacy Automation\obj\Debug\Pharmacy Automation.pdb
+C:\Users\muhsi\source\repos\Pharmacy Automation\obj\Debug\Pharmacy_Automation.İlaçlar.resources
+C:\Users\muhsi\source\repos\Pharmacy Automation\obj\Debug\Pharmacy_Automation.Login.resources
+C:\Users\muhsi\source\repos\Pharmacy Automation\obj\Debug\Pharmacy_Automation.Employees.resources
+C:\Users\muhsi\source\repos\Pharmacy Automation\obj\Debug\Pharmacy_Automation.Selection.resources
